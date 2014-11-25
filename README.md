@@ -7,10 +7,10 @@ Polymer-template provides a skeleton of a Polymer app. It is intended as a quick
 
 ### Run the app using Node's server module. 
 
-        // install if necessary
-        <project-directory>$ npm install -g serve 
+If necessary, you can installl serve with: `npm install -g serve`
+
         <project-directory>$ serve
-		
+
 ### Access the site on port 3000.
 
 		http://localhost:3000
